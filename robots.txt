@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aedohmieth.plattenseerecords.com/sitemap.xml
